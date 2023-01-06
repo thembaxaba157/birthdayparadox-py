@@ -1,5 +1,5 @@
 # birthdayparadox-py
-This project is my solution the Birthday Paradox problem from The Big Book of Small Python Projects
+This project is my solution to the Birthday Paradox problem from The Big Book of Small Python Projects
 
 Description:
 The Birthday Paradox, also called the
