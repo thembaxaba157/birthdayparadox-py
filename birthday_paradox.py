@@ -25,7 +25,7 @@ def gen_rand_dates(num_bday):
 
 
 def intro_message():
-    print('Birthday Paradox, by Al Sweigart al@inventwithpython.com\n')
+    print('Birthday Paradox, by Al Sweigart al@inventwithpython.com and coded by thembaxaba157\n')
 
 
 def print_birthdays(random_dates):
