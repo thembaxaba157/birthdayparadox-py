@@ -1,7 +1,6 @@
 # 🎂 Birthday Paradox Simulator
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 > Simulate the famous Birthday Paradox and explore probability through Monte Carlo experiments — all in the terminal.
 
@@ -32,8 +31,6 @@ This means 23 people have a 50.705% chance of
 having a matching birthday in their group.
 That's probably more than you would think!
 ```
-
-> 💡 Want to add an animated GIF? Use [asciinema](https://asciinema.org/) or record your terminal using [Peek](https://github.com/phw/peek) and upload the image to your repo or Imgur.
 
 ---
 
